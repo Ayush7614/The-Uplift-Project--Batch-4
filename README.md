@@ -1,12 +1,7 @@
-## The Uplift Project
+## The Uplift Project Notes
 
 Uplift Project is a global-remote initiative for people worldwide who want to talk about something fruitful. This repo for Daily Notes of uplift project
 
-
-<p align="center">
-  <a href="https://www.girlscript.tech/programs/uplift/index.html">
-    <img src="https://www.girlscript.tech/programs/uplift/images/uplift_logo.png" alt="Logo">
- </a>
 
 ## ⭐ How to get started?
 
