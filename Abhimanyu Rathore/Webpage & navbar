@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Introduction</title>
+</head>
+<body>
+    <section>
+    <h1>Hello, This is Abhimanyu Rathore(アビマンユラティル).</h1>
+    <hr>
+    <h2>Self Introductin (自己紹介)</h2>
+    <p>こんにちは皆さん。</p>
+    <p>はじめまして。</p>
+    <p>私はアビマンユです。</p>
+    <p>私はジョードプルに住んでいます。</p>
+    <p>シャーラダ大学に勉強しています。</p>
+    <p>どうぞよろしくお願い致します。</p> 
+    <a href=ttps://www.who.int/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwqvyFBhB7EiwAER786Y5K4goqCr4BH6fKNbQQ979SfVW3x5LUP6bLMfhm3DmDwTO_e6f9wBoCMyUQAvD_BwE><b>Interesting things about Japan.</b></a>
+    <img src="https://cdn.dribbble.com/users/1711/screenshots/2153283/______.png?compress=1&resize=800x600" >
+    </section> 
+    <section>
+    <h1>Reason why I love Japanese.</h1>  
+    <ol>
+        <li>Japanese is worlds's second most hard language.</li>
+        <li>Being hard it is very interseting to read & study Japanese language.</li>
+        <li>It has three scripts</li>
+        <ul>
+            <li>Hiragan</li>
+            <li>katankana</li>
+            <li>Kanji</li>
+        </ul>
+        <li>While studying this language sometime your mind will get confused this creates a feeling of excitement.</li>
+    </ol>
+    </section>
+    <footer>
+        <p>Page made by - Abhimanyu.</p>
+        <p><a href="mailto ☎️: abhixxx@gmail.com">abhixxx@gmail.com</a></p>
+        <p style="color: red;"><b>-日本語の学生。</b></p>
+    </footer>    
+    <nav>
+        <a href="Know more.html">|Know more|</a>
+        <a href="Services.html">|Services|</a>
+        <a href="Various Resources.html">|Online Materials|</a>
+    </nav>
+
+</body>
+</html>
