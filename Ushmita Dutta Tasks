@@ -1,0 +1,76 @@
+1st Task
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Being Safe During Corona</title>
+</head>
+<body>
+    <h1>How to be safe during Corona times</h1>
+    <p>In these struggling times it is important to keep ourselves safe from this deadly virus.
+        At the same time do not become lazy.
+    </p>
+    <p>It is essential to keep your brain healthy too.</p><p>Have a positive mindset</p>>
+    <a href=https://www.who.int/emergencies/diseases/novel-coronavirus-2019?gclid=CjwKCAjwqvyFBhB7EiwAER786Y5K4goqCr4BH6fKNbQQ979SfVW3x5LUP6bLMfhm3DmDwTO_e6f9wBoCMyUQAvD_BwE>Click here to get latest covid updates.</a>
+    <img src="Sharpen Your Brain.jpg" width="100px" height="100px">
+    <p style="color: red;">Ignoring mental wellness is like ignoring the future.</p>>
+    <ul>
+        <li>Stay at Home</li>
+        <li>Mask Up When You Go Out</li>
+        </ul>
+</body>
+</html>
+
+2nd Task
+
+
+<DOCTYPEhtml >
+    <html>
+        <head>
+            <title>Day 2 Class Uplift</title>
+        </head>
+    <body>
+        <section>
+            <h1>Check the availability of fresh vegetables here at your nearest store.</h1>
+            <p>Do not worry about groceries. With us you can check the availability from the comfort of your home. Click on what you want, reserve it, pick it up and pay. No need to waste time in checking groceries for your home.
+            </p>
+        </section>
+        <section>
+            <h1>Potatoes</h1>
+            <p>Check for fresh potatoes <a href>here .</a></p>
+        </section>
+        <section>
+            <h1>Tomatoes</h1>
+            <p>Check for fresh tomatoes <a href>here .</a></p>
+        </section>
+        <section>
+            <h1>Lemons</h1>
+            <p>Check for fresh lemons <a href>here .</a></p>
+        </section>
+        <section>
+            <h1>Onion</h1>
+            <p>Check for fresh onion <a href>here .</a></p>
+        </section>
+        <section>
+            <h1>Garlic</h1>
+            <p>Check for fresh garlic <a href>here .</a></p>
+        </section>
+
+        <footer>
+            <p>Still have doubt. Feel Free to reach us. : 24X7</p>
+            <a href="Call : 9798387611">9798387611</a>
+        </footer>
+
+        <nav>
+            <a href="AboutUs.html">About Us</a>
+            <a href="Services.html">Services</a>
+            <a href="ListofStores.html">List of Stores</a>
+            <a href="Other Facilities.html">Other Facilities</a>
+
+        </nav>
+
+    </body>
+    </html>
