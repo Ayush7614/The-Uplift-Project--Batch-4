@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <title>B. Santosh Babu</title>
+    </head>
+    <style>
+            .image figure{
+
+                float: right;
+            }
+            figcaption{
+                text-align: center;
+            }
+
+            .head h1{
+                text-align: center;
+            }
+            li{
+                font-size: 25px;
+            }
+    </style>
+    <body style="background-color:black; color:white">
+        <header>
+            <div class="head">
+                <h1 style="font-size: 400%;">Welcome</h1>
+                <p style="font-size: 30px;">This is a page is a tribute to our hero B. Santosh Babu.</p>
+            </div>
+        </header>
+        <hr>
+        <section class="image">
+            <h1 style="font-size: 75px; width: 60%;">B.Santosh Babu</h1>
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/B._Santhosh_Babu.jpg/332px-B._Santhosh_Babu.jpg" alt="B. Santosh Babu" width="250" height="40%">
+                <figcaption>B. Santosh Babu</figcaption>
+            </figure>     
+        </section>
+        <section class="intro">
+            <p style="font-size: 25px;">
+                Colonel Bikkumalla Santosh Babu MVC (13 February 1983 – 15 June 2020) was an Indian Army officer and the commanding officer of 16 Bihar Regiment. He was killed in action during the 2020 China–India skirmishes, the first Indian Armed Forces commissioned officer since 1967 and among the first Indian soldiers to have been killed in action against the Chinese People's Liberation Army (PLA) since 1975. He was posthumously decorated with India's second-highest wartime gallantry award, the Maha Vir Chakra.
+            </p>
+            <br>
+            <br>
+            <hr>
+        </section>
+        <section class="tablecontents">
+            <h3 style="font-size: 30px;">Contents</h3>
+            <ol>
+                <li style= color:orange>Early Life</li>
+                <li>Famous Qotes</li>
+                <li style= color:green>References</li>
+            </ol>
+            <br>
+            <br>
+        </section>
+        <div class="EarlyLife">
+            <hr>
+            <h4 style="font-size: 30px; color:orange ">Early Life</h4>
+            <p style="font-size: 20px;">
+                <b>B. Santosh Babu</b> A native of Suryapet in Telangana, Babu was the only son of Bikkumalla Upender, a retired manager with the State Bank of India and his wife Manjula. From 1988 to 1993, during his Class I to Class V years, he studied in Sri Saraswathi Shishumandir School at Luxettipet in Mancherial district. He was described by his schoolmates and teachers as a brilliant student. After primary school, Santosh was accepted to a Sainik School in Korukonda, Vizianagaram district, where he studied through Class XII.
+            </p>
+        </div>
+        <section>
+            <div>
+                <hr>
+                <h4 style="font-size: 30px;">Famous Quotes of B. Santosh Babu</h4>
+                <br>
+                <q style="font-size: 20px;">Service Before Self.</q>
+                <cite>--B. Santosh Babu</cite>
+                <br>
+                <br>
+                
+            </div>
+            <hr>
+        </section>
+        <section>
+            <div class="References">
+                <h4 style="font-size: 30px; color:green">References</h4>
+                <a style="font-size: 20px; color:honeydew" href="https://en.wikipedia.org/wiki/B._Santosh_Babu;">Read More On...</a>
+            </div>
+            <br>
+            <br>
+            <br>
+        </section>
+        <footer style="text-align: center;">
+            <p><i><b>This page is created by Abhimanyu Rathore.</b></i></p>
+        </footer>        
+    </body>
+</html>
