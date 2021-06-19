@@ -1,0 +1,22 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: red;
+    background-color: skyblue;
+    border: 2px solid green;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+
+}
+p{
+    font-size: 25px;
+    line-height: 50px;
+    text-align: center;
+    color: red;
+    background-color: yellow;
+    border: solid;
+}
+
+
+
