@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Registration Form</title>
+    <style>
+    .main {
+    background-image: url("https://cdn.dribbble.com/users/59100/screenshots/15937123/media/3d665c8c88cb8359c87f1bf8e863b6f9.png?compress=1&resize=1600x1200");
+    background-size: 30%;
+    border-radius: 20px;
+    height: 8em;
+    text-align:  bold center;
+    font-size: larger;
+    color: #eee;
+    font-family: Lucida Handwriting;
+}
+
+body {
+  align-items: center;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  height: 140vh;
+}
+
+.form {
+  background-color: #15172b;
+  border-radius: 20px;
+  box-sizing: border-box;
+  height: 1000px;
+  padding: 50px;
+  width: 50%;
+}
+
+div {
+    padding: 10px 0;
+    color: #eee;
+    font-family: Lucida Console;
+}
+
+input[type=text],
+input[type=email]{
+    background-color: #303245;
+    border-radius: 12px;
+    color: #eee;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+
+}
+
+input[type=text]:focus,
+input[type=email]:focus {
+    outline: none;
+}
+
+.regi{
+    display: inline-block;
+    color: #fff;
+    background: #08d;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 40px;
+    border: 2px solid #77ACF1;
+    transition: all 0.3s ease;
+}
+.regi:hover{
+    cursor: pointer;
+    color:black;
+    background-color: #fff;
+}
+
+.select{
+    background-color: #303245;
+    border-radius: 12px;
+    color: #eee;
+}
+
+.dob{
+    background-color: #303245;
+    border-radius: 12px;
+    color: #eee;
+}
+input::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+    </style>
+</head>
+
+<body>
+    <form class="form">
+        <center>
+            <div class="main">
+                <br>
+                <h1><b>Webx Camp</b></h1>
+            </div>
+        </center>
+        <br>
+        <div class="part1">
+            First name: <input type="text" name="firstname" placeholder="Firstname" size="15" required />
+            Middle Name: <input type="text" name="middlename" placeholder="Middlename" size="15" required />
+            Last Name: <input type="text" name="lastname" placeholder="Lastname" size="15" required />
+            <div>
+                
+                Select Courses: <select class="select">  
+                <option value="Select Courses">Select Courses.</option>  
+                <option value="Frontend bootcamp">Frontend bootcamp</option>  
+                <option value="Backend bootcamp">Backend bootcamp</option>  
+                <option value="Ux/Ui Design bootcamp">Ux/Ui Design bootcamp</option>
+                </select>
+            </div>
+            <div>
+                <label>Gender :</label><br>
+                <input type="radio" value="Male" name="gender" checked> Male
+                <input type="radio" value="Female" name="gender"> Female
+                <input type="radio" value="Other" name="gender"> Other
+            </div>
+            <div>
+                Date of Birth: <input type="date" class="dob" name="DOB" required>
+            </div>
+            <div>
+                Email: <input type="email" name="email" placeholder="Email-Id" required>
+            </div>
+            <div>
+               Contact No: <input type="text" name="country code" placeholder="Country Code" value="+91" size="2"/>
+            </div>
+            <div>
+                <input type="checkbox" id="check" name="check">
+                <label for="id">Click Here if your provided details are genuine</label><br>
+            </div>
+            <div>
+                <center>
+                    <button type="submit" class="regi">Submit</button>
+                </center>
+            </div>
+        </div>
+
+</body>
+
+</html>
