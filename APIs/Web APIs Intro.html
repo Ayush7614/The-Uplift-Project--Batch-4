@@ -1,0 +1,37 @@
+/* Web APIs Introduction  In first class we have to make a geological latitude and longitude*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web APIs</title>
+</head>
+<body>
+    <h2>Javascript Geologication</h2>
+    <p>Click the buttons to get your coordinates</p>
+    <button onclick="getLocation()">Try It</button>
+    <p id = "demo"></p>
+    <script>
+        const x = document.getElementById("demo");
+
+        function getLocation (){
+            try{
+                navigator.geolocation.getCurrentPosition(showPosition);
+           }
+           catch{
+               x.innerHTML = err;
+           }
+        }
+
+        function showPosition(position) {
+            x.innerHTML = "Latitude: " +
+        position.coords.latitude +
+        "<br>Longitude: "  +
+        position.coords.longitude;    
+        }
+        </script>
+    
+</body>
+</html>
